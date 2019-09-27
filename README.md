@@ -1,2 +1,2 @@
 # uk_parliament
-For analysis of parliamentary debate 25092019
+For analysis of the parliamentary debate 25092019 that took place after a prorogation was ruled unlawful - a debate that's been described as pretty bad-tempered. The Hansard proceedings for the three-hour debate involving the Prime Minister are scraped and placed in a 4-column pandas dataframe (and .csv) that lists the contributor, constituency, party affiliation, and the text of his or her contribution.
